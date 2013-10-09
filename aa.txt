@@ -1,0 +1,27 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 000B-22C9
+
+ Directory of C:\Users\guylev\rails_projects\first_app
+
+10/09/2013  10:15 AM    <DIR>          .
+10/09/2013  10:15 AM    <DIR>          ..
+10/09/2013  10:12 AM               482 .gitignore
+10/09/2013  10:15 AM                 0 aa.txt
+10/08/2013  05:21 PM    <DIR>          app
+10/08/2013  05:21 PM    <DIR>          config
+10/08/2013  05:21 PM               158 config.ru
+10/09/2013  09:08 AM    <DIR>          db
+10/08/2013  05:21 PM    <DIR>          doc
+10/09/2013  09:05 AM               810 Gemfile
+10/09/2013  09:05 AM             2,487 Gemfile.lock
+10/08/2013  05:21 PM    <DIR>          lib
+10/09/2013  09:06 AM    <DIR>          log
+10/08/2013  05:21 PM    <DIR>          public
+10/08/2013  05:21 PM               273 Rakefile
+10/08/2013  05:21 PM             9,208 README.rdoc
+10/08/2013  05:21 PM    <DIR>          script
+10/08/2013  05:21 PM    <DIR>          test
+10/09/2013  09:06 AM    <DIR>          tmp
+10/08/2013  05:21 PM    <DIR>          vendor
+               7 File(s)         13,418 bytes
+              13 Dir(s)  118,780,768,256 bytes free
